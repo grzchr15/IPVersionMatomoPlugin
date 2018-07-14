@@ -1,0 +1,31 @@
+{
+    "name": "IPVersion",
+    "description": "Collects statistics on the IP version of the visitor's connection, i.e. IPv4 or IPv6.",
+    "version": "1.0.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.0.0-b1,<5.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Johannes Singler",
+            "email": "johannes@singler.name",
+            "homepage": ""
+        }
+    ],
+    "donate": {
+      "paypal": "johannes@singler.name",
+      "flattr": "",
+      "bitcoin": ""
+    },
+    "support": {
+        "issues": "https://github.com/johsin18/IPVersionMatomoPlugin/issues",
+        "wiki": "https://github.com/johsin18/IPVersionMatomoPlugin/wiki",
+        "source": "https://github.com/johsin18/IPVersionMatomoPlugin"
+    },
+    "homepage": "",
+    "license": "GPL-3.0+",
+    "keywords": [
+        "IP", "IPv4", "IPv6", "IP version"
+    ]
+}
