@@ -1,6 +1,6 @@
 # IP Version Matomo Plugin
 
-[![Build Status](https://travis-ci.org/johsin18/IPVersionMatomoPlugin.svg?branch=master)](https://travis-ci.org/johsin18/IPVersionMatomoPlugin)
+[![Build Status](https://travis-ci.com/johsin18/IPVersionMatomoPlugin.svg?branch=4.x-dev)](https://travis-ci.com/johsin18/IPVersionMatomoPlugin)
 
 ## Description
 
